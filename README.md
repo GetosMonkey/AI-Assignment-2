@@ -1,8 +1,8 @@
 # Setup Instructions: 
 
-Basically once you download the notebook that's all you need, other than two have the two datasets as files in the same folder/directory as the notebook so that my program can correctly read it in.
+Basically once you download the notebook that's all you need, other than two have the dataset as folder in the same folder/directory as the notebook so that my program can correctly read it in.
 
-Assignment1.ipynb: Main program where all my working code blocks are
+Assignment2.ipynb: Main program where all my working code blocks are
 .gitignore: File mainly for version control on my github
 README.md: setup instructions
 
@@ -12,9 +12,9 @@ The file structure should look something like this:
 
 Mode                 LastWriteTime         Length Name
 ----                 -------------         ------ ----
-d-----         8/26/2025   9:03 AM                .ipynb_checkpoints
--a----         8/25/2025   9:05 PM            283 .gitignore
--a----         8/29/2025  10:04 PM        1698916 Assignment1.ipynb
--a----         8/18/2025   9:45 AM          44086 HDR25_Statistical_Annex_HDI_Table.xlsx
--a----         8/29/2025  10:42 PM              0 README.md
--a----         8/18/2025   9:45 AM      198198507 WDICSV.csv
+d-----         9/15/2025   9:39 AM                .ipynb_checkpoints
+d-----         9/15/2025   1:39 PM                dataset
+-a----         9/15/2025   1:41 PM            472 .gitignore
+-a----         9/15/2025   9:06 AM         355238 A2 updated.pdf
+-a----         9/15/2025  11:32 PM         175704 Assignment2.ipynb
+-a----         9/15/2025   9:33 AM           1020 README.md
